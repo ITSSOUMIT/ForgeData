@@ -6,7 +6,7 @@ Installation:
 pip install forgedata
 ```
 
-Data types supported as of `v1.0.0`:\
+Data types supported as of `v1.0.1`:\
 👉 [Name](#name)\
 👉 [Email](#email)\
 👉 [Password](#password)\

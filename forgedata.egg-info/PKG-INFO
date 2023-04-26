@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: forgedata
-Version: 1.0.0
+Version: 1.0.1
 Summary: A Python package for generating random dummy data for testing purposes.
-Home-page: https://github.com/ITSSOUMIT
+Home-page: https://github.com/ITSSOUMIT/ForgeData
 Author: Soumit Das
 Author-email: its.soumit.das@gmail.com
 Classifier: Programming Language :: Python :: 3
@@ -12,7 +12,7 @@ Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# Forgedata
+# ForgeData
 A Python package for generating random dummy data for testing purposes.
 
 Installation:
@@ -20,7 +20,7 @@ Installation:
 pip install forgedata
 ```
 
-Data types supported as of `v1.0.0`:\
+Data types supported as of `v1.0.1`:\
 👉 [Name](#name)\
 👉 [Email](#email)\
 👉 [Password](#password)\
