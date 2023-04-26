@@ -1,4 +1,4 @@
-# Forgedata
+# ForgeData
 A Python package for generating random dummy data for testing purposes.
 
 Installation:
